@@ -24,6 +24,9 @@ body {
 	background-color: #fff;
 	color: #212121;
 }
+body.modal-open {
+	overflow: hidden;
+}
 
 .gallery {
 	display: grid;
