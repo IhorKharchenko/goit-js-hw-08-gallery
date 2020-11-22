@@ -59,5 +59,5 @@ const removeListenerTags = function() {
 };
 
 const removeEventListener = function () {
-    modalCloseBtn.removeEventListener("click", removeListenerTags);
+  modalCloseBtn.removeEventListener("click", removeListenerTags);
 };
